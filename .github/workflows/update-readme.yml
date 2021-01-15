@@ -30,7 +30,7 @@ jobs:
           # plugin_isocalendar: yes
           # plugin_isocalendar_duration: full-year          
           plugin_followup: yes
-          plugin_traffic: yes
+          # plugin_traffic: yes # looks like this one doesn't like my token
           plugin_lines: yes
           plugin_topics: yes
           # plugin_topics_sort: stars
