@@ -23,10 +23,10 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_animated: yes
           config_timezone: Pacific/Auckland
-          plugin_activity: yes
-          plugin_activity_days: 14
-          plugin_activity_filter: all
-          plugin_activity_limit: 5
+          # plugin_activity: yes
+          # plugin_activity_days: 14
+          # plugin_activity_filter: all
+          # plugin_activity_limit: 5
           # plugin_isocalendar: yes
           # plugin_isocalendar_duration: full-year          
           plugin_followup: yes
