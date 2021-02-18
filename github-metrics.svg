@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="992" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1018" class="">
 
   <defs><style/></defs>
   <style>/* SVG global context */
@@ -1286,7 +1286,7 @@
           
             <span>These metrics include private contributions, timezone Pacific/Auckland</span>
           
-          <span>Last updated Thu, 18 Feb 2021 18:24:49 GMT with lowlighter/metrics@3.4.0-beta</span>
+          <span>Last updated Thu, 18 Feb 2021 19:18:05 GMT with lowlighter/metrics@3.4.0-beta</span>
         </footer>
       
       <div id="metrics-end"></div>
