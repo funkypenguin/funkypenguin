@@ -1541,8 +1541,8 @@
                 </div>
             </section>
             <footer>
-                <span>These metrics include private contributions, timezone Pacific/Auckland</span>
-                <span>Last updated Sat, 29 May 2021 00:18:40 with lowlighter/metrics@3.10.0-beta</span>
+                <span>These metrics include private contributions</span>
+                <span>Last updated Sat, 29 May 2021 01:25:41 (timezone Pacific/Auckland) with lowlighter/metrics@3.10.0-beta</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
